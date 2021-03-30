@@ -1,2 +1,2 @@
 # LandOfStuff
-A planned mod of Andrew Wang's The Land Of Stuff
+A game using the same engine as Andrew Wang's Version, however it will be very different.
